@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer currently working at 99x. I've been involved in multiple open-source projects, where majority are related to developer experience and tooling infrastructure.
+I'm a Software Engineer currently working at WorkClass Singapore. I've been involved in multiple open-source projects, where majority are related to developer experience and tooling infrastructure.
 
 http://theruntime.xyz/
 
