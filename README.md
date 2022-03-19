@@ -2,7 +2,7 @@
 
 I've been involved in multiple open-source projects, where majority are related to developer experience and tooling infrastructure.
 
-http://theruntime.xyz/
+http://theruntime.dev/
 
 Few projects I've contributed to,
 
