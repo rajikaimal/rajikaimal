@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I've been involved in multiple open-source projects, where majority are related to developer experience and tooling infrastructure.
+⚡ Passionate about developer experience tooling and infra.
 
-http://theruntime.dev/
+https://theruntime.dev
 
 Few projects I've contributed to,
 
